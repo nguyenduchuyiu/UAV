@@ -13,6 +13,18 @@ This project aims to develop a UAV (drone) control system using reinforcement le
 - **Custom reward functions** that penalize instability and encourage target-seeking behavior.
 - **Tensor-based observations** collected from onboard sensors (gyroscope, accelerometer, magnetometer, etc.).
 
+### Results:
+<p align="center">
+  <figure>
+    <img src="Manual_control.gif" width="300" />
+    <figcaption>Manual Control</figcaption>
+  </figure>
+  <figure>
+    <img src="AI_control.gif" width="300" />
+    <figcaption>AI Control</figcaption>
+  </figure>
+</p>
+
 ## Credits
 
 This project uses assets obtained from the Unity Asset Store and other sources. Special thanks to the creators for providing these resources:
