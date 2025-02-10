@@ -16,11 +16,11 @@ This project aims to develop a UAV (drone) control system using reinforcement le
 ### Results:
 <p align="center">
   <figure>
-    <img src="Manual_control.gif" width="300" />
+    <img src="Manual_control.gif" />
     <figcaption>Manual Control</figcaption>
   </figure>
   <figure>
-    <img src="AI_control.gif" width="300" />
+    <img src="AI_control.gif" />
     <figcaption>AI Control</figcaption>
   </figure>
 </p>
