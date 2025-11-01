@@ -13,7 +13,7 @@ This project aims to develop a UAV (drone) control system using reinforcement le
 - **Custom reward functions** that penalize instability and encourage target-seeking behavior.
 - **Tensor-based observations** collected from onboard sensors (gyroscope, accelerometer, magnetometer, etc.).
 
-### Results:
+### Results (May take several seconds to load):
 <p align="center">
   <figure>
     <img src="Manual_control.gif" />
